@@ -1,0 +1,3 @@
+python code,Pending
+study the python,Completed
+do hard work,Pending
